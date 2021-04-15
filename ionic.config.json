@@ -1,0 +1,7 @@
+{
+  "name": "tarea-app-blank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
